@@ -97,7 +97,7 @@ In **8 color** and **4 color** terminals, they might lack the necessary variatio
 | 7  |![#444444](https://place-hold.it/100x40/444444/000000?text=+) |  238   | #444444 |![#d0d0d0](https://place-hold.it/100x40/d0d0d0/000000?text=+) |  252   | #d0d0d0 |
 | 8  |![#bcbcbc](https://place-hold.it/100x40/bcbcbc/000000?text=+) |  250   | #bcbcbc |![#585858](https://place-hold.it/100x40/585858/000000?text=+) |  240   | #585858 |
 | 9  |![#d70000](https://place-hold.it/100x40/d70000/000000?text=+) |  160   | #d70000 |![#5faf5f](https://place-hold.it/100x40/5faf5f/000000?text=+) |  71    | #5faf5f |
-| 10 |![#d70087](https://place-hold.it/100x40/d70087/000000?text=+) |  162   | #d70087 |![#afd700](https://place-hold.it/100x40/afd700/000000?text=+) |  148   | #afd700 |
+| 10 |![#0c5913](https://place-hold.it/100x40/0c5913/000000?text=+) |  162   | #d70087 |![#afd700](https://place-hold.it/100x40/afd700/000000?text=+) |  148   | #afd700 |
 | 11 |![#8700af](https://place-hold.it/100x40/8700af/000000?text=+) |  91    | #8700af |![#af87d7](https://place-hold.it/100x40/af87d7/000000?text=+) |  140   | #af87d7 |
 | 12 |![#d75f00](https://place-hold.it/100x40/d75f00/000000?text=+) |  166   | #d75f00 |![#ffaf00](https://place-hold.it/100x40/ffaf00/000000?text=+) |  214   | #ffaf00 |
 | 13 |![#d75f00](https://place-hold.it/100x40/d75f00/000000?text=+) |  166   | #d75f00 |![#ff5faf](https://place-hold.it/100x40/ff5faf/000000?text=+) |  205   | #ff5faf |
